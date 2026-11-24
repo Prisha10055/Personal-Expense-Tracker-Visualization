@@ -1,0 +1,41 @@
+============================================================
+       PERSONAL EXPENSE TRACKER - ANALYTICAL REPORT         
+============================================================
+Total Transactions Analyzed : 266
+Total Income                : INR 219,000.00
+Total Spending              : INR 200,059.64
+Net Savings                 : INR 18,940.36
+Savings Rate                : 8.65%
+Average Daily Spending      : INR 1,087.28
+Average Monthly Spending    : INR 33,343.27
+Highest Spending Category   : Groceries (INR 73,516.28)
+
+--- Category-Wise Breakdown ---
+         category  total_spend  tx_count  avg_tx  share_pct
+        Groceries     73516.28        62 1185.75      36.75
+         Shopping     43327.23        27 1604.71      21.66
+    Food & Dining     22066.42        74  298.19      11.03
+        Transport     18391.98        46  399.83       9.19
+ Health & Fitness     18219.25        17 1071.72       9.11
+Bills & Utilities     15914.00        12 1326.17       7.95
+    Entertainment      8624.48        22  392.02       4.31
+
+--- Monthly Trend ---
+  month  total_income  total_spend  net_savings
+2026-05       35000.0     35126.53      -126.53
+2026-06       38000.0     33559.78      4440.22
+2026-07       38000.0     26045.71     11954.29
+2026-08       35000.0     31256.40      3743.60
+2026-09       35000.0     34444.25       555.75
+2026-10       38000.0     39626.97     -1626.97
+
+--- Budget Check (2026-10) ---
+         category  limit_amount  actual_spend  variance        status
+         Shopping        4500.0      13801.06  -9301.06   OVER BUDGET
+        Groceries        7500.0      11383.25  -3883.25   OVER BUDGET
+ Health & Fitness        2000.0       3344.40  -1344.40   OVER BUDGET
+    Entertainment        1500.0       1669.46   -169.46   OVER BUDGET
+Bills & Utilities        3500.0       3022.00    478.00 Within Budget
+        Transport        3500.0       2901.72    598.28 Within Budget
+    Food & Dining        7000.0       3505.08   3494.92 Within Budget
+============================================================

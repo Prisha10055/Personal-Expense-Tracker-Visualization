@@ -1,0 +1,269 @@
+Date,Description,Amount,Payment_Method,Account,Note
+2026-05-01,Monthly Stipend / Salary Credit,35000.0,Net Banking,HDFC,Monthly income
+2026-05-05,JioFiber Broadband,-849.0,UPI,HDFC,Wi-Fi monthly plan
+2026-05-10,MSEDCL Electricity Bill,-1951.0,UPI,HDFC,Monthly power bill
+2026-05-15,Netflix Subscription,-499.0,Credit Card,ICICI,OTT plan
+2026-06-01,Monthly Stipend / Salary Credit,38000.0,Net Banking,HDFC,Monthly income
+2026-06-05,JioFiber Broadband,-849.0,UPI,HDFC,Wi-Fi monthly plan
+2026-06-10,MSEDCL Electricity Bill,-1582.0,UPI,HDFC,Monthly power bill
+2026-06-15,Netflix Subscription,-499.0,Credit Card,ICICI,OTT plan
+2026-07-01,Monthly Stipend / Salary Credit,38000.0,Net Banking,HDFC,Monthly income
+2026-07-05,JioFiber Broadband,-849.0,UPI,HDFC,Wi-Fi monthly plan
+2026-07-10,MSEDCL Electricity Bill,-2044.0,UPI,HDFC,Monthly power bill
+2026-07-15,Netflix Subscription,-499.0,Credit Card,ICICI,OTT plan
+2026-08-01,Monthly Stipend / Salary Credit,35000.0,Net Banking,HDFC,Monthly income
+2026-08-05,JioFiber Broadband,-849.0,UPI,HDFC,Wi-Fi monthly plan
+2026-08-10,MSEDCL Electricity Bill,-1867.0,UPI,HDFC,Monthly power bill
+2026-08-15,Netflix Subscription,-499.0,Credit Card,ICICI,OTT plan
+2026-09-01,Monthly Stipend / Salary Credit,35000.0,Net Banking,HDFC,Monthly income
+2026-09-05,JioFiber Broadband,-849.0,UPI,HDFC,Wi-Fi monthly plan
+2026-09-10,MSEDCL Electricity Bill,-1203.0,UPI,HDFC,Monthly power bill
+2026-09-15,Netflix Subscription,-499.0,Credit Card,ICICI,OTT plan
+2026-10-01,Monthly Stipend / Salary Credit,38000.0,Net Banking,HDFC,Monthly income
+2026-10-05,JioFiber Broadband,-849.0,UPI,HDFC,Wi-Fi monthly plan
+2026-10-10,MSEDCL Electricity Bill,-2173.0,UPI,HDFC,Monthly power bill
+2026-10-15,Netflix Subscription,-499.0,Credit Card,ICICI,OTT plan
+2026-05-01,Flipkart Order,-1716.04,UPI,HDFC,Shopping expense
+2026-05-01,Uber Ride,-416.19,UPI,HDFC,Transport expense
+2026-05-02,Local Kirana Store,-454.78,Credit Card,ICICI,Groceries expense
+2026-05-03,BookMyShow Movie,-645.84,UPI,HDFC,Entertainment expense
+2026-05-03,BigBasket Order,-1934.4,Credit Card,ICICI,Groceries expense
+2026-05-03,Swiggy Food Delivery,-354.12,UPI,HDFC,Food & Dining expense
+2026-05-04,Zomato Order,-568.4,UPI,HDFC,Food & Dining expense
+2026-05-05,Swiggy Food Delivery,-571.16,Credit Card,ICICI,Food & Dining expense
+2026-05-05,  Swiggy Food Delivery  ,-245.68,UPI,HDFC,Food & Dining expense
+2026-05-06,Metro Card Recharge,-482.07,Credit Card,ICICI,Transport expense
+2026-05-06,Swiggy Food Delivery,-233.83,Debit Card,HDFC,Food & Dining expense
+2026-05-07,Uber Ride,-348.5,Debit Card,HDFC,Transport expense
+2026-05-08,Reliance Fresh,-621.88,UPI,HDFC,Groceries expense
+2026-05-09,Reliance Fresh,-722.08,UPI,HDFC,Groceries expense
+2026-05-10,Myntra Apparel,-1553.41,Credit Card,ICICI,Shopping expense
+2026-05-13,Cafe Coffee Day,-203.22,UPI,HDFC,Food & Dining expense
+2026-05-13,Ola Auto,-143.82,UPI,HDFC,Transport expense
+2026-05-14,Reliance Fresh,-477.01,Cash,Cash Wallet,Groceries expense
+2026-05-15,College Canteen Lunch,-189.03,Credit Card,ICICI,Food & Dining expense
+2026-05-15,College Canteen Lunch,-93.49,Net Banking,HDFC,Food & Dining expense
+2026-05-16,College Canteen Lunch,-104.75,Credit Card,ICICI,Food & Dining expense
+2026-05-17,Cafe Coffee Day,-357.01,Debit Card,HDFC,Food & Dining expense
+2026-05-17,Local Kirana Store,-142.06,UPI,HDFC,Groceries expense
+2026-05-18,Reliance Fresh,-1181.47,UPI,HDFC,Groceries expense
+2026-05-19,Cafe Coffee Day,-157.53,Cash,Cash Wallet,Food & Dining expense
+2026-05-20,BigBasket Order,-1521.98,UPI,HDFC,Groceries expense
+2026-05-20,Cafe Coffee Day,-238.1,UPI,HDFC,Food & Dining expense
+2026-05-21,  Reliance Fresh  ,-1539.44,Net Banking,HDFC,Groceries expense
+2026-05-22,BigBasket Order,-1090.59,Debit Card,HDFC,Groceries expense
+2026-05-23,  BigBasket Order  ,-2423.62,UPI,HDFC,Groceries expense
+2026-05-23,Cafe Coffee Day,-423.83,Credit Card,ICICI,Food & Dining expense
+2026-05-24,Zomato Order,-483.28,UPI,HDFC,Food & Dining expense
+2026-05-24,BigBasket Order,-1413.7,Cash,Cash Wallet,Groceries expense
+2026-05-24,Uber Ride,-440.69,Net Banking,HDFC,Transport expense
+2026-05-25,Ola Auto,-142.2,UPI,HDFC,Transport expense
+2026-05-26,Spotify Premium,-119.0,UPI,HDFC,Entertainment expense
+2026-05-27,Reliance Fresh,-1611.84,UPI,HDFC,Groceries expense
+2026-05-28,  Cult.fit Membership  ,-1500.44,UPI,HDFC,Health & Fitness expense
+2026-05-28,Reliance Fresh,-1316.49,UPI,HDFC,Groceries expense
+2026-05-29,Uber Ride,-191.92,Credit Card,ICICI,Transport expense
+2026-05-29,HP Petrol Pump,-660.88,Net Banking,HDFC,Transport expense
+2026-05-30,Swiggy Food Delivery,-491.55,Cash,Cash Wallet,Food & Dining expense
+2026-05-31,  BigBasket Order  ,-1831.35,UPI,HDFC,Groceries expense
+2026-05-31,Cafe Coffee Day,-468.86,Debit Card,HDFC,Food & Dining expense
+2026-06-01,Cafe Coffee Day,-155.89,UPI,HDFC,Food & Dining expense
+2026-06-01,Myntra Apparel,-1188.55,Debit Card,HDFC,Shopping expense
+2026-06-02,Ola Auto,-142.32,UPI,HDFC,Transport expense
+2026-06-02,Flipkart Order,-1725.52,UPI,HDFC,Shopping expense
+2026-06-03,  Myntra Apparel  ,-839.77,Debit Card,HDFC,Shopping expense
+2026-06-03,Amazon India,-1396.52,UPI,HDFC,Shopping expense
+2026-06-04,  Cafe Coffee Day  ,-188.11,UPI,HDFC,Food & Dining expense
+2026-06-05,D-Mart Supermarket,-1602.73,Debit Card,HDFC,Groceries expense
+2026-06-06,Cafe Coffee Day,-430.87,UPI,HDFC,Food & Dining expense
+2026-06-07,  College Canteen Lunch  ,-159.97,UPI,HDFC,Food & Dining expense
+2026-06-08,College Canteen Lunch,-196.68,UPI,HDFC,Food & Dining expense
+2026-06-10,Netflix Subscription,-639.81,Credit Card,ICICI,Entertainment expense
+2026-06-10,Metro Card Recharge,-253.82,Debit Card,HDFC,Transport expense
+2026-06-11,College Canteen Lunch,-133.91,Debit Card,HDFC,Food & Dining expense
+2026-06-11,Reliance Fresh,-925.33,UPI,HDFC,Groceries expense
+2026-06-12,Zomato Order,-408.71,Debit Card,HDFC,Food & Dining expense
+2026-06-13,BookMyShow Movie,-434.33,Debit Card,HDFC,Entertainment expense
+2026-06-13,Ola Auto,-236.97,Debit Card,HDFC,Transport expense
+2026-06-14,  Uber Ride  ,-370.13,Net Banking,HDFC,Transport expense
+2026-06-15,D-Mart Supermarket,-1865.15,UPI,HDFC,Groceries expense
+2026-06-16,Apollo Pharmacy,-624.95,Credit Card,ICICI,Health & Fitness expense
+2026-06-17,College Canteen Lunch,-162.61,UPI,HDFC,Food & Dining expense
+2026-06-17,D-Mart Supermarket,-1566.24,UPI,HDFC,Groceries expense
+2026-06-18,Flipkart Order,-1828.81,Debit Card,HDFC,Shopping expense
+2026-06-18,Local Kirana Store,-166.49,Debit Card,HDFC,Groceries expense
+2026-06-19,Uber Ride,-240.11,Net Banking,HDFC,Transport expense
+2026-06-19,  College Canteen Lunch  ,-124.02,UPI,HDFC,Food & Dining expense
+2026-06-20,Zomato Order,-410.83,Credit Card,ICICI,Food & Dining expense
+2026-06-20,Spotify Premium,-119.0,UPI,HDFC,Entertainment expense
+2026-06-21,Cult.fit Membership,-1271.09,Credit Card,ICICI,Health & Fitness expense
+2026-06-21,Reliance Fresh,-1329.14,UPI,HDFC,Groceries expense
+2026-06-22,Cafe Coffee Day,-301.32,UPI,HDFC,Food & Dining expense
+2026-06-22,BookMyShow Movie,-331.98,Cash,Cash Wallet,Entertainment expense
+2026-06-23,Myntra Apparel,-923.48,Cash,Cash Wallet,Shopping expense
+2026-06-24,  BigBasket Order  ,-560.9,UPI,HDFC,Groceries expense
+2026-06-24,HP Petrol Pump,-757.67,Net Banking,HDFC,Transport expense
+2026-06-28,Myntra Apparel,-2483.76,UPI,HDFC,Shopping expense
+2026-06-29,  Uber Ride  ,-371.32,Credit Card,ICICI,Transport expense
+2026-06-29,D-Mart Supermarket,-1433.84,Credit Card,ICICI,Groceries expense
+2026-06-30,D-Mart Supermarket,-1882.51,UPI,HDFC,Groceries expense
+2026-06-30,Metro Card Recharge,-444.62,UPI,HDFC,Transport expense
+2026-07-02,HP Petrol Pump,-725.07,UPI,HDFC,Transport expense
+2026-07-02,Cult.fit Membership,-1670.45,Debit Card,HDFC,Health & Fitness expense
+2026-07-03,Spotify Premium,-119.0,Debit Card,HDFC,Entertainment expense
+2026-07-04,Netflix Subscription,-427.76,UPI,HDFC,Entertainment expense
+2026-07-06,Swiggy Food Delivery,-323.21,UPI,HDFC,Food & Dining expense
+2026-07-07,Swiggy Food Delivery,-282.29,Debit Card,HDFC,Food & Dining expense
+2026-07-09,Zomato Order,-324.08,Debit Card,HDFC,Food & Dining expense
+2026-07-10,Metro Card Recharge,-326.49,Credit Card,ICICI,Transport expense
+2026-07-10,Cafe Coffee Day,-356.58,UPI,HDFC,Food & Dining expense
+2026-07-11,Amazon India,-1986.08,Debit Card,HDFC,Shopping expense
+2026-07-11,  College Canteen Lunch  ,-197.23,UPI,HDFC,Food & Dining expense
+2026-07-13,D-Mart Supermarket,-1101.55,UPI,HDFC,Groceries expense
+2026-07-13,Ola Auto,-63.23,Credit Card,ICICI,Transport expense
+2026-07-14,D-Mart Supermarket,-683.36,UPI,HDFC,Groceries expense
+2026-07-15,Metro Card Recharge,-324.38,Debit Card,HDFC,Transport expense
+2026-07-15,College Canteen Lunch,-81.5,UPI,HDFC,Food & Dining expense
+2026-07-15,BigBasket Order,-848.4,Credit Card,ICICI,Groceries expense
+2026-07-16,Myntra Apparel,-997.35,UPI,HDFC,Shopping expense
+2026-07-18,College Canteen Lunch,-145.71,UPI,HDFC,Food & Dining expense
+2026-07-18,BookMyShow Movie,-389.44,UPI,HDFC,Entertainment expense
+2026-07-19,Swiggy Food Delivery,-219.53,UPI,HDFC,Food & Dining expense
+2026-07-20,Ola Auto,-227.84,UPI,HDFC,Transport expense
+2026-07-21,Cafe Coffee Day,-428.68,UPI,HDFC,Food & Dining expense
+2026-07-22,Zomato Order,-522.92,Credit Card,ICICI,Food & Dining expense
+2026-07-22,College Canteen Lunch,-154.4,UPI,HDFC,Food & Dining expense
+2026-07-23,  Ola Auto  ,-134.55,UPI,HDFC,Transport expense
+2026-07-23,Netflix Subscription,-400.69,UPI,HDFC,Entertainment expense
+2026-07-25,Metro Card Recharge,-592.72,Debit Card,HDFC,Transport expense
+2026-07-26,Spotify Premium,-119.0,Cash,Cash Wallet,Entertainment expense
+2026-07-26,Amazon India,-2683.86,UPI,HDFC,Shopping expense
+2026-07-27,Apollo Pharmacy,-937.66,UPI,HDFC,Health & Fitness expense
+2026-07-27,Metro Card Recharge,-249.55,UPI,HDFC,Transport expense
+2026-07-28,Apollo Pharmacy,-521.98,Cash,Cash Wallet,Health & Fitness expense
+2026-07-29,D-Mart Supermarket,-2014.02,Net Banking,HDFC,Groceries expense
+2026-07-29,  BigBasket Order  ,-1282.67,UPI,HDFC,Groceries expense
+2026-07-30,Metro Card Recharge,-546.18,Credit Card,ICICI,Transport expense
+2026-07-30,Local Kirana Store,-244.3,Debit Card,HDFC,Groceries expense
+2026-08-01,Metro Card Recharge,-360.54,Net Banking,HDFC,Transport expense
+2026-08-02,Amazon India,-1511.5,Credit Card,ICICI,Shopping expense
+2026-08-03,  Swiggy Food Delivery  ,-596.68,UPI,HDFC,Food & Dining expense
+2026-08-04,Ola Auto,-237.63,Cash,Cash Wallet,Transport expense
+2026-08-05,D-Mart Supermarket,-2395.28,Credit Card,ICICI,Groceries expense
+2026-08-06,Spotify Premium,-119.0,UPI,HDFC,Entertainment expense
+2026-08-08,Reliance Fresh,-1251.81,UPI,HDFC,Groceries expense
+2026-08-09,Ola Auto,-178.99,UPI,HDFC,Transport expense
+2026-08-09,BigBasket Order,-2409.04,Debit Card,HDFC,Groceries expense
+2026-08-09,Ola Auto,-203.76,UPI,HDFC,Transport expense
+2026-08-10,Reliance Fresh,-724.87,Debit Card,HDFC,Groceries expense
+2026-08-11,College Canteen Lunch,-146.68,Cash,Cash Wallet,Food & Dining expense
+2026-08-11,Myntra Apparel,-2353.94,UPI,HDFC,Shopping expense
+2026-08-13,  Cult.fit Membership  ,-1507.64,UPI,HDFC,Health & Fitness expense
+2026-08-13,  Cult.fit Membership  ,-1224.65,UPI,HDFC,Health & Fitness expense
+2026-08-14,  Swiggy Food Delivery  ,-326.91,UPI,HDFC,Food & Dining expense
+2026-08-15,Local Kirana Store,-229.72,UPI,HDFC,Groceries expense
+2026-08-16,  BigBasket Order  ,-735.35,Net Banking,HDFC,Groceries expense
+2026-08-17,Swiggy Food Delivery,-382.72,Credit Card,ICICI,Food & Dining expense
+2026-08-18,Zomato Order,-333.37,UPI,HDFC,Food & Dining expense
+2026-08-19,Swiggy Food Delivery,-202.83,UPI,HDFC,Food & Dining expense
+2026-08-20,  Local Kirana Store  ,-193.25,Net Banking,HDFC,Groceries expense
+2026-08-21,D-Mart Supermarket,-1659.29,UPI,HDFC,Groceries expense
+2026-08-22,Amazon India,-464.46,Credit Card,ICICI,Shopping expense
+2026-08-23,HP Petrol Pump,-830.54,Net Banking,HDFC,Transport expense
+2026-08-24,Cult.fit Membership,-1416.92,Credit Card,ICICI,Health & Fitness expense
+2026-08-25,  Ola Auto  ,-151.09,UPI,HDFC,Transport expense
+2026-08-25,D-Mart Supermarket,-1125.63,UPI,HDFC,Groceries expense
+2026-08-26,Ola Auto,-129.77,Net Banking,HDFC,Transport expense
+2026-08-26,BigBasket Order,-801.81,Debit Card,HDFC,Groceries expense
+2026-08-27,Apollo Pharmacy,-163.26,Cash,Cash Wallet,Health & Fitness expense
+2026-08-28,Netflix Subscription,-595.17,Debit Card,HDFC,Entertainment expense
+2026-08-29,Reliance Fresh,-742.13,Debit Card,HDFC,Groceries expense
+2026-08-31,BigBasket Order,-2335.17,UPI,HDFC,Groceries expense
+2026-09-01,College Canteen Lunch,-181.61,Debit Card,HDFC,Food & Dining expense
+2026-09-02,Cafe Coffee Day,-319.81,UPI,HDFC,Food & Dining expense
+2026-09-02,Zomato Order,-251.74,Net Banking,HDFC,Food & Dining expense
+2026-09-02,Ola Auto,-92.86,Cash,Cash Wallet,Transport expense
+2026-09-03,Myntra Apparel,-1145.51,UPI,HDFC,Shopping expense
+2026-09-04,College Canteen Lunch,-152.38,Credit Card,ICICI,Food & Dining expense
+2026-09-04,Myntra Apparel,-919.69,Net Banking,HDFC,Shopping expense
+2026-09-05,  BigBasket Order  ,-929.23,Credit Card,ICICI,Groceries expense
+2026-09-05,Cult.fit Membership,-1631.59,Net Banking,HDFC,Health & Fitness expense
+2026-09-06,Ola Auto,-187.82,UPI,HDFC,Transport expense
+2026-09-07,  Swiggy Food Delivery  ,-357.29,UPI,HDFC,Food & Dining expense
+2026-09-07,D-Mart Supermarket,-1784.9,UPI,HDFC,Groceries expense
+2026-09-08,Reliance Fresh,-1621.55,UPI,HDFC,Groceries expense
+2026-09-09,  College Canteen Lunch  ,-145.58,UPI,HDFC,Food & Dining expense
+2026-09-10,Apollo Pharmacy,-546.41,UPI,HDFC,Health & Fitness expense
+2026-09-11,Metro Card Recharge,-550.68,Net Banking,HDFC,Transport expense
+2026-09-12,Cult.fit Membership,-1282.68,UPI,HDFC,Health & Fitness expense
+2026-09-12,D-Mart Supermarket,-2099.3,Debit Card,HDFC,Groceries expense
+2026-09-12,D-Mart Supermarket,-762.61,Credit Card,ICICI,Groceries expense
+2026-09-13,Zomato Order,-404.19,UPI,HDFC,Food & Dining expense
+2026-09-13,Uber Ride,-458.95,UPI,HDFC,Transport expense
+2026-09-15,Amazon India,-997.45,UPI,HDFC,Shopping expense
+2026-09-16,Uber Ride,-434.85,UPI,HDFC,Transport expense
+2026-09-17,College Canteen Lunch,-102.58,Cash,Cash Wallet,Food & Dining expense
+2026-09-18,Zomato Order,-491.36,Debit Card,HDFC,Food & Dining expense
+2026-09-18,Reliance Fresh,-488.5,Cash,Cash Wallet,Groceries expense
+2026-09-19,  Reliance Fresh  ,-611.58,UPI,HDFC,Groceries expense
+2026-09-19,BigBasket Order,-2425.38,UPI,HDFC,Groceries expense
+2026-09-19,College Canteen Lunch,-154.46,UPI,HDFC,Food & Dining expense
+2026-09-20,Ola Auto,-163.13,UPI,HDFC,Transport expense
+2026-09-20,Cafe Coffee Day,-262.99,Credit Card,ICICI,Food & Dining expense
+2026-09-21,Amazon India,-1096.46,Net Banking,HDFC,Shopping expense
+2026-09-21,  HP Petrol Pump  ,-1791.38,UPI,HDFC,Transport expense
+2026-09-22,D-Mart Supermarket,-747.04,Debit Card,HDFC,Groceries expense
+2026-09-23,Zomato Order,-453.6,Debit Card,HDFC,Food & Dining expense
+2026-09-23,Cafe Coffee Day,-463.52,UPI,HDFC,Food & Dining expense
+2026-09-24,Flipkart Order,-1714.01,Net Banking,HDFC,Shopping expense
+2026-09-24,Apollo Pharmacy,-575.13,Debit Card,HDFC,Health & Fitness expense
+2026-09-25,Cafe Coffee Day,-283.04,Debit Card,HDFC,Food & Dining expense
+2026-09-25,Cafe Coffee Day,-449.34,UPI,HDFC,Food & Dining expense
+2026-09-26,Zomato Order,-269.19,UPI,HDFC,Food & Dining expense
+2026-09-27,Ola Auto,-64.35,UPI,HDFC,Transport expense
+2026-09-27,  HP Petrol Pump  ,-820.68,Debit Card,HDFC,Transport expense
+2026-09-28,Local Kirana Store,-270.27,Debit Card,HDFC,Groceries expense
+2026-09-29,Cafe Coffee Day,-464.46,Debit Card,HDFC,Food & Dining expense
+2026-09-30,Cafe Coffee Day,-472.12,UPI,HDFC,Food & Dining expense
+2026-10-02,Myntra Apparel,-1632.28,Net Banking,HDFC,Shopping expense
+2026-10-03,Cafe Coffee Day,-311.64,Debit Card,HDFC,Food & Dining expense
+2026-10-04,BookMyShow Movie,-676.36,Cash,Cash Wallet,Entertainment expense
+2026-10-05,HP Petrol Pump,-1124.79,UPI,HDFC,Transport expense
+2026-10-05,Metro Card Recharge,-303.12,Debit Card,HDFC,Transport expense
+2026-10-06,  Amazon India  ,-3074.74,UPI,HDFC,Shopping expense
+2026-10-07,  Amazon India  ,-871.9,Credit Card,ICICI,Shopping expense
+2026-10-08,Cult.fit Membership,-1315.55,UPI,HDFC,Health & Fitness expense
+2026-10-09,Netflix Subscription,-230.34,UPI,HDFC,Entertainment expense
+2026-10-10,Myntra Apparel,-2093.25,UPI,HDFC,Shopping expense
+2026-10-11,Cafe Coffee Day,-315.25,Debit Card,HDFC,Food & Dining expense
+2026-10-12,Cult.fit Membership,-1509.88,UPI,HDFC,Health & Fitness expense
+2026-10-12,  Apollo Pharmacy  ,-518.97,UPI,HDFC,Health & Fitness expense
+2026-10-12,Ola Auto,-137.73,Credit Card,ICICI,Transport expense
+2026-10-13,Zomato Order,-611.85,Credit Card,ICICI,Food & Dining expense
+2026-10-13,  Netflix Subscription  ,-263.76,Net Banking,HDFC,Entertainment expense
+2026-10-14,Zomato Order,-229.04,UPI,HDFC,Food & Dining expense
+2026-10-15,D-Mart Supermarket,-1721.9,Credit Card,ICICI,Groceries expense
+2026-10-15,D-Mart Supermarket,-2055.09,Debit Card,HDFC,Groceries expense
+2026-10-17,HP Petrol Pump,-834.69,Credit Card,ICICI,Transport expense
+2026-10-18,Zomato Order,-320.55,UPI,HDFC,Food & Dining expense
+2026-10-18,Reliance Fresh,-428.97,UPI,HDFC,Groceries expense
+2026-10-19,Cafe Coffee Day,-195.28,Debit Card,HDFC,Food & Dining expense
+2026-10-19,College Canteen Lunch,-202.51,Cash,Cash Wallet,Food & Dining expense
+2026-10-20,Reliance Fresh,-733.63,Credit Card,ICICI,Groceries expense
+2026-10-21,  Flipkart Order  ,-2418.44,UPI,HDFC,Shopping expense
+2026-10-22,Cafe Coffee Day,-288.16,Credit Card,ICICI,Food & Dining expense
+2026-10-23,Zomato Order,-348.88,Debit Card,HDFC,Food & Dining expense
+2026-10-24,HP Petrol Pump,-501.39,UPI,HDFC,Transport expense
+2026-10-25,D-Mart Supermarket,-2186.01,UPI,HDFC,Groceries expense
+2026-10-26,Reliance Fresh,-1178.66,UPI,HDFC,Groceries expense
+2026-10-26,D-Mart Supermarket,-643.36,UPI,HDFC,Groceries expense
+2026-10-27,  BigBasket Order  ,-1172.83,UPI,HDFC,Groceries expense
+2026-10-28,College Canteen Lunch,-165.47,UPI,HDFC,Food & Dining expense
+2026-10-29,  Local Kirana Store  ,-181.12,Debit Card,HDFC,Groceries expense
+2026-10-29,Amazon India,-2750.53,Credit Card,ICICI,Shopping expense
+2026-10-30,D-Mart Supermarket,-1081.68,Cash,Cash Wallet,Groceries expense
+2026-10-30,Flipkart Order,-959.92,Cash,Cash Wallet,Shopping expense
+2026-10-30,Zomato Order,-409.4,UPI,HDFC,Food & Dining expense
+2026-10-31,College Canteen Lunch,-107.05,UPI,HDFC,Food & Dining expense
+invalid-date,Corrupted Row Test,-100.0,UPI,HDFC,Should be dropped during cleaning
+2026-10-31,Missing Amount Row,,Cash,Cash Wallet,Should be dropped during cleaning
