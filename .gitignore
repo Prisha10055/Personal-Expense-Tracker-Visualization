@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment & IDE
+.env
+.vscode/
+.idea/
+.DS_Store
+
+# Optional local DB/cache (keep sample outputs if showcasing on GitHub)
+*.log
+.pytest_cache/
